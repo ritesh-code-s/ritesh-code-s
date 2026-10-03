@@ -1,30 +1,252 @@
 <h1 align="center">Hi 👋, I'm Light</h1>
-<h3 align="center">Turning caffeine into commits. ☕→💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh-code-s&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh-code-s" /> </p>
+<h3 align="center">
+  <code>Turning caffeine into commits ☕ → 💻</code>
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritesh-code-s" alt="ritesh-code-s" /></a> </p>
-
-- 🔭 I’m currently working on [Canvas of Leetcode](https://github.com/ritesh-code-s/Leetcode.problems)
-
-- 👯 I’m looking to collaborate on [Going with the flow of DSA](https://github.com/ritesh-code-s/DSA-Journey)
-
-- 🤝 I’m looking for help with [Canvas of learning FULL-STACK](https://github.com/ritesh-code-s/Canvas-of-Full-stack)
-
-- ⚡ Fun fact **I don’t just debug code — I debug my entire career path at the same time. 💀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/ritesh-kumar777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ritesh-kumar777" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ritesh_kr_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ritesh_kr_codes" height="30" width="40" /></a>
+<p align="center">
+  <i>Learning. Building. Breaking things. Fixing them. Repeating. 🚀</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritesh-code-s&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh-code-s&show_icons=true&locale=en&layout=compact" alt="ritesh-code-s" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritesh-code-s&show_icons=true&locale=en" alt="ritesh-code-s" /></p>
+## 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh-code-s&" alt="ritesh-code-s" /></p>
+```cpp
+class Light {
+
+public:
+
+    string currentMission = "Become dangerously good at building things";
+
+    vector<string> currentlyLearning = {
+        "Data Structures & Algorithms",
+        "Full Stack Development",
+        "JavaScript",
+        "Git & GitHub"
+    };
+
+    string mindset =
+        "Don't chase perfection. Chase progress.";
+
+    string funFact =
+        "I don't just debug code — "
+        "I debug my entire career path at the same time. 💀";
+};
+```
+
+---
+
+# 🚀 What I'm Building
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🧩 DSA
+
+<a href="https://github.com/ritesh-code-s/DSA-Journey">
+<img src="https://img.shields.io/badge/DSA-Journey-7F00FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br><br>
+
+Grinding through Data Structures & Algorithms and turning problems into patterns.
+
+</td>
+
+<td width="33%" align="center">
+
+### 💻 Full Stack
+
+<a href="https://github.com/ritesh-code-s/Canvas-of-Full-stack">
+<img src="https://img.shields.io/badge/FULL--STACK-Building-00FF88?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+
+<br><br>
+
+Building my way from HTML & CSS to real-world full-stack applications.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧪 LeetCode
+
+<a href="https://github.com/ritesh-code-s/Leetcode.problems">
+<img src="https://img.shields.io/badge/LeetCode-Grinding-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br><br>
+
+Solving problems, getting stuck, learning, and trying again.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 My GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh-code-s&bg_color=0d1117&color=39ff88&line=39ff88&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+
+</p>
+
+---
+
+# 🔥 The Grind
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh-code-s&theme=dark&hide_border=true&background=0D1117&stroke=7F00FF&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&sideLabels=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="75%"/>
+
+</p>
+
+<p align="center">
+  <i>Every commit counts. Every problem teaches something.</i>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript,python&theme=dark" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
+</p>
+
+### ⚙️ Tools & Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
+</p>
+
+---
+
+# 🧩 Skills
+
+<table align="center">
+<tr>
+<td align="center" width="180">
+
+### 🧠 Problem Solving
+
+Arrays<br>
+Binary Search<br>
+Linked Lists<br>
+Recursion<br>
+Sorting
+
+</td>
+
+<td align="center" width="180">
+
+### 🌐 Frontend
+
+HTML<br>
+CSS<br>
+JavaScript<br>
+React
+
+</td>
+
+<td align="center" width="180">
+
+### ⚙️ Backend
+
+Node.js<br>
+Express.js<br>
+APIs<br>
+Server-side Logic
+
+</td>
+
+<td align="center" width="180">
+
+### 🗃️ Database
+
+MySQL<br>
+MongoDB<br>
+PostgreSQL<br>
+SQL
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ritesh-code-s&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=39FF88&text_color=FFFFFF&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-code-s&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF" width="40%"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ritesh-code-s&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/ritesh-kumar777">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ritesh_kr_codes/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+> ⚡ "Trust the process. The commits will tell the story."
+
+</h3>
+
+<p align="center">
+  <i>Still learning. Still building. Still figuring it out.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=100&section=footer"/>
+</p>
 

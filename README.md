@@ -16,29 +16,12 @@
 
 ## 🧠 About Me
 
-```cpp
-class Light {
-
-public:
-
-    string currentMission = "Become dangerously good at building things";
-
-    vector<string> currentlyLearning = {
-        "Data Structures & Algorithms",
-        "Full Stack Development",
-        "JavaScript",
-        "Git & GitHub"
-    };
-
-    string mindset =
-        "Don't chase perfection. Chase progress.";
-
-    string funFact =
-        "I don't just debug code — "
-        "I debug my entire career path at the same time. 💀";
-};
-```
-
+- 💻 Currently learning **DSA + Full Stack Development**
+- 🧩 Grinding through **LeetCode & problem solving**
+- 🌐 Building projects while learning the full-stack ecosystem
+- 🌱 Currently improving my **C++, JavaScript & Git/GitHub**
+- 🎯 Goal: Become genuinely good at building and solving things
+- ⚡ Fun fact: I don't just debug code — I debug my entire career path too. 💀
 ---
 
 # 🚀 What I'm Building

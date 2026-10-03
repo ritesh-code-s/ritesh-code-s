@@ -73,19 +73,6 @@ Solving problems, getting stuck, learning, and trying again.
 
 </tr>
 </table>
-
----
-
-# 📊 My GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh-code-s&bg_color=0d1117&color=39ff88&line=39ff88&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
-
-</p>
-
----
-
 # 🔥 The Grind
 
 <p align="center">
